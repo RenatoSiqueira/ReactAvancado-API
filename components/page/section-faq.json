@@ -13,8 +13,7 @@
     "questions": {
       "type": "component",
       "repeatable": true,
-      "component": "page.questions",
-      "min": 2
+      "component": "page.questions"
     }
   }
 }

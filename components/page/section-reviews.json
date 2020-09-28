@@ -14,8 +14,7 @@
       "type": "component",
       "repeatable": true,
       "component": "page.reviews",
-      "required": true,
-      "min": 4
+      "required": true
     }
   }
 }

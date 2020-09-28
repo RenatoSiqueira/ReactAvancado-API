@@ -15,8 +15,7 @@
       "repeatable": true,
       "component": "page.tech-icons",
       "required": true,
-      "max": 10,
-      "min": 5
+      "max": 10
     }
   }
 }

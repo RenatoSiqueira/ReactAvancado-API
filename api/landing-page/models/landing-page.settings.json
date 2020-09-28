@@ -16,7 +16,7 @@
         "images"
       ],
       "plugin": "upload",
-      "required": true
+      "required": false
     },
     "header": {
       "type": "component",
